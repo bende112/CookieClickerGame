@@ -1,0 +1,22 @@
+body {
+  align-self: auto;
+  background-color: bisque;
+  margin: 10px;
+  height: 10px;
+  width: 100;
+}
+
+
+div {
+  background-color: aquamarine;
+}
+
+button {
+  justify-content: space-between;
+  margin: 1.0rem;
+
+}
+
+.cookies-display {
+  background-color: rgb(88, 192, 221);
+}
